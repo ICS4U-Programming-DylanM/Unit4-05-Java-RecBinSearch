@@ -1,0 +1,8 @@
+Sorted Array: [1, 6, 7, 9, 11, 20]
+Search Number: 6
+FOUND at index 1
+
+Sorted Array: [3, 4, 8, 10, 11, 21]
+Search Number: 5
+NOT FOUND
+
